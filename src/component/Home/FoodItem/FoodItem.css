@@ -1,0 +1,7 @@
+.food-item-container:hover {
+    cursor: pointer;
+    border-radius: 20px;
+    position: relative;
+    top: -5px;
+    box-shadow: 5px 5px 40px rgb(236, 235, 231);
+}

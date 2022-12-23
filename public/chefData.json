@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "title": "Fast Delivery",
+        "image": "./images/chef/img1.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam obcaecati, provident esse aspernatur voluptatem exercitationem delectus, hic animi laboriosam, aperiam repudiandae similique expedita id sunt iure earum deleniti iusto rerum."
+    },
+    {
+        "id": "2",
+        "title": "A good responder",
+        "image": "./images/chef/img2.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam obcaecati, provident esse aspernatur voluptatem exercitationem delectus, hic animi laboriosam, aperiam repudiandae similique expedita id sunt iure earum deleniti iusto rerum."
+    },
+    {
+        "id": "3",
+        "title": "Home Delivery",
+        "image": "./images/chef/img3.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam obcaecati, provident esse aspernatur voluptatem exercitationem delectus, hic animi laboriosam, aperiam repudiandae similique expedita id sunt iure earum deleniti iusto rerum."
+    }
+]
